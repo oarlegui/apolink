@@ -1,0 +1,42 @@
+[14-Apr-2025 19:22:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 19:22:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 19:52:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 19:53:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 19:53:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 19:53:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_gestion_system.colegios' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php:13
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php(13): mysqli->prepare('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/buscar_colegio.php on line 13
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 1 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 1 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 1 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 62
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 71
+[14-Apr-2025 21:38:54 UTC] PHP Warning:  Undefined array key 1 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 71
+[14-Apr-2025 21:38:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/modulo.php on line 71

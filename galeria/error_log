@@ -1,0 +1,6 @@
+[04-Apr-2025 20:44:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+                        ORDER BY e.fecha DESC' at line 4 in /home/xlikqebq/www.arlegui-it.cl/apolink/gallery/gallery.php:14
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/gallery/gallery.php(14): mysqli->prepare('SELECT e.id, e....')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/gallery/gallery.php on line 14

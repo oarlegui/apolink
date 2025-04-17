@@ -1,0 +1,12 @@
+[14-Apr-2025 20:13:37 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 90
+[14-Apr-2025 20:13:37 UTC] PHP Warning:  Undefined array key 0 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 90
+[14-Apr-2025 20:13:37 UTC] PHP Warning:  Undefined array key 2 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 91
+[14-Apr-2025 20:13:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 91
+[14-Apr-2025 20:13:37 UTC] PHP Warning:  Undefined array key 1 in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 91
+[14-Apr-2025 20:13:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/edit_student.php on line 91
+[15-Apr-2025 20:57:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_apolink.curso_usuario' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/get_assigned_courses.php:15
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/get_assigned_courses.php(15): mysqli->prepare('SELECT curso_id...')
+#1 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/alumnos/students.php(20): get_assigned_courses(Object(mysqli), 4, 'admin_curso')
+#2 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/include/get_assigned_courses.php on line 15

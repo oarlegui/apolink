@@ -1,0 +1,15 @@
+[14-Apr-2025 21:47:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_apolink.empresas' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php:25
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php(25): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php on line 25
+[14-Apr-2025 21:48:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xlikqebq_apolink.empresas' doesn't exist in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php:27
+Stack trace:
+#0 /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php(27): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresas.php on line 27
+[15-Apr-2025 20:57:59 UTC] PHP Warning:  Undefined array key "imagen1" in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresa_detail.php on line 33
+[15-Apr-2025 20:57:59 UTC] PHP Warning:  Undefined array key "imagen2" in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresa_detail.php on line 33
+[15-Apr-2025 20:57:59 UTC] PHP Warning:  Undefined array key "imagen3" in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresa_detail.php on line 33
+[15-Apr-2025 20:57:59 UTC] PHP Warning:  Undefined array key "clicks_tel" in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresa_detail.php on line 73
+[15-Apr-2025 20:57:59 UTC] PHP Warning:  Undefined array key "clicks_email" in /home/xlikqebq/www.arlegui-it.cl/apolink/apolink_v2/ApolinkV2/empresas/empresa_detail.php on line 73
